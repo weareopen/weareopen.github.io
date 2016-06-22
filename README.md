@@ -1,7 +1,7 @@
 # weareopen.coop
 Welcome to our first repo for the WeAreOpen.coop website!
 
-# This is a remix
+### This is a remix
 We're eternally grateful to [html5up.net](https://html5up.net/) and [@ajlkn](http://twitter.com/ajkln) for the excellent HTML5 template Twenty.
 
 Twenty is a minimal, multi-page responsive site template for HTML5 UP. @ajlkn wrote:
