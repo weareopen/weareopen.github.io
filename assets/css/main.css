@@ -56,6 +56,16 @@
 		box-sizing: border-box;
 	}
 
+/*Text*/
+.smallText{
+	font-size: .7em;
+}
+ol.process {
+	list-style-type:decimal;
+	padding-left:15%;
+	
+}
+
 /* Containers */
 
 	.container {
