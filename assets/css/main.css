@@ -71,7 +71,20 @@ ol.process {
 	padding-left:15%;
 	
 }
-
+.rssFeed{
+	font-size: 0.8em;
+	text-align: center;
+}
+.feedWidget{
+	font-size:10px; 
+	text-align:right; 
+	width:300px;
+	position: relative;
+top: -5%;
+}
+.feedWidget a{
+	color:#ccc;
+}
 /* Containers */
 
 	.container {
