@@ -2298,7 +2298,7 @@ top: -5%;
 					background: rgba(188, 202, 206, 0.15);
 				}
 
-				#header nav ul li.current > a {
+				#header nav ul li.current > a, #footer nav ul li.current > a {
 					font-weight: 900;
 				}
 
