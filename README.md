@@ -1,5 +1,5 @@
 # weareopen.coop
-Welcome to our first repo for the WeAreOpen.coop website!
+Welcome to our first repo for the WeAreOpen.coop website! Did you find a 404 or want to ask us to change something? Please file an issue in our [AllTheThings repo](https://github.com/weareopen/AllTheThings/issues)
 
 ### This is a remix
 We're eternally grateful to [html5up.net](https://html5up.net/) and [@ajlkn](http://twitter.com/ajkln) for the excellent HTML5 template Twenty.
