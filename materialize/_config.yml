@@ -1,0 +1,11 @@
+title: We Are Open Co-op
+author: We Are Open Co-op
+email: admin@weareopen.coop
+description: > # this means to ignore newlines until "baseurl:"
+  A Site Starter Materialize Templates for Jekyll
+
+twitter_username: weareopencoop
+github_username:  laurahilliger
+
+sass:
+    style: compressed
