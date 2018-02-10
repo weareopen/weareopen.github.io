@@ -1,5 +1,33 @@
 @charset "utf-8";
 
+.locks {
+	background-image: url(../assets/images/locks-pattern.png);
+	background-repeat: repeat;
+}
+.z-index-1000{
+	z-index: 1000;
+}
+
+.umbrella-card{
+	padding-top: 4rem;
+	position: relative;
+	top: -3rem;
+	font-size:1.2rem;
+}
+
+.valign-shift{
+	position:relative;
+	top:1rem;
+}
+
+.display {
+	font-size:1.1rem;
+}
+
+.header-text{
+	font-size:1.5rem;
+}
+
 h1, h2, h3, h4, h5, h6 {
     -webkit-font-smoothing: antialiased;
 }

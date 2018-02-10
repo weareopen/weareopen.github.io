@@ -5,8 +5,5 @@ email: admin@weareopen.coop
 github_username: laurahilliger
 sass: 
   style: compressed
-title: "We Are Open Coop"
+title: "We Are Open Co-operative"
 twitter_username: weareopencoop
-safe: true
-lsi: false
-source: materialize

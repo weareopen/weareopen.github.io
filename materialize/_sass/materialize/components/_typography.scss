@@ -23,8 +23,10 @@ html{
   color: $off-black;
 }
 h1, h2, h3, h4, h5, h6 {
+	font-family: "Roboto Slab", serif;
 	font-weight: 400;
 	line-height: 1.1;
+	
 }
 
 // Header Styles
@@ -57,5 +59,8 @@ small { font-size: 75%; }
   // Handle below 360px screen
   @media only screen and (max-width: 360px) {
     font-size: 1.2rem;
+  }
+  .header-text{
+	  font-size:1rem;
   }
 }

@@ -4,13 +4,15 @@
   transition: box-shadow .25s;
   padding: $card-padding;
   margin: $element-top-margin 0 $element-bottom-margin 0;
-  border-radius: 2px;
+  border-radius: 10px;
   @extend .z-depth-1;
   background-color: $card-bg-color;
+  text-align:center;
 }
 
 .card {
   position: relative;
+  padding:24px;
   margin: $element-top-margin 0 $element-bottom-margin 0;
   background-color: $card-bg-color;
   transition: box-shadow .25s;
