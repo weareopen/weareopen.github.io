@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="container">
+	    <div class="section">
+        	<h1 class="page-title">{{ page.heading }}</h1>
+	        <div class="row">
+	            <div class="col s12 m4 l4">
+	                <p class="entry-text">{{ page.intro-text }}</p>
+	            </div>
+	
+	            <div class="col s12 m4 l8">
+		             {% if page.img %}<img class="responsive-img" src="{% for img in page.img %}{{ "/" | relative_url }}/assets/images/{{img}}{% unless forloop.last %}, {% endunless %}{% endfor %}" alt="{{ page.image-alt }}">{% endif %}
+		        </div>
+	        </div>
+	    </div>
+        
+	                
+	             {{ content }}
+	             
+	             
+</div>

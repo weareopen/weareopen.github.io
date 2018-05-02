@@ -1,0 +1,12 @@
+---
+author: "We Are Open Coop"
+description: "We work to spread the culture, processes and benefits of open wherever we can."
+email: admin@weareopen.coop
+github_username: laurahilliger
+sass:
+  style: compressed
+title: "We Are Open Co-op"
+twitter_username: weareopencoop
+baseurl: 
+plugins:
+  - jekyll-redirect-from

@@ -1,49 +1,20 @@
-# weareopen.coop
-Welcome to our first repo for the WeAreOpen.coop website! Did you find a 404 or want to ask us to change something? Please file an issue in our [AllTheThings repo](https://github.com/weareopen/AllTheThings/issues)
+# Jekyll Materialize Starter Template v0.1
 
-### This is a remix
-We're eternally grateful to [html5up.net](https://html5up.net/) and [@ajlkn](http://twitter.com/ajkln) for the excellent HTML5 template Twenty.
+*A Site Starter Materialize Templates.
 
-Twenty is a minimal, multi-page responsive site template for HTML5 UP. @ajlkn wrote:
+The theme is a fork of the [minima][1]
 
-''As the name implies, it is my twentieth (!) design for HTML5 UP. Since the last
-few have been single page affairs, I decided to go with something a bit more conventional
-and threw in four extra page layouts. Beyond that, it's the usual drill: fully responsive,
-built on HTML5/CSS3/skel, and CCA licensed like all my other stuff. Sass sources are
-also included for those of you into that sort of thing (entirely optional).
-
-Special thanks to Michael Domaradzki (md.photomerchant.net) for allowing me to use
-his excellent photos in Twenty's demo*.
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michael's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).''
+![minima theme preview](/screenshot.png)
 
 
-Credits:
+# License
 
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-			"Night Vision"
-			"At the Station II"
-			"Airchitecture II"
-			"Livewires II"
-			"Midnite Xpress I"
+The theme is available as open source under the terms of the [MIT License][2].
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+[Materialize][3] a  modern responsive front-end framework based on Material Design
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
-		jquery.scrolly (@ajlkn)
-		jquery.scrollgress (@ajlkn)
-		Skel (skel.io)
+Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
+
+[1]: https://github.com/jekyll/minima
+[2]: https://opensource.org/licenses/MIT
+[3]: http://materializecss.com/

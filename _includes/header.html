@@ -1,0 +1,24 @@
+<nav class="blue-grey darken-4" role="navigation">
+    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}"><img src="{{ "/" | relative_url }}assets/images/logo.png" alt="logo" width="215" /></a>
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+
+          <ul class="right hide-on-med-and-down">
+            {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}{% if item.highlight %}class="btn waves-effect waves-light blue"{% endif %}>
+      {{ item.name }}
+    </a></li>
+  {% endfor %}
+          </ul>
+
+          <ul id="nav-mobile" class="side-nav">
+            {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}{% if item.highlight %}class="btn waves-effect waves-light blue"{% endif %}>
+      {{ item.name }}
+    </a></li>
+  {% endfor %}
+          </ul>
+
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+    </div>
+</nav>
