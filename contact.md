@@ -8,7 +8,7 @@ img: i-can-help.png
 ---
 <div class="row">
     <div class="col s12 m12 l12">
-					
+
 					<!-- One -->
 						<section class="wrapper style4 special container 75%">
 
@@ -35,9 +35,7 @@ img: i-can-help.png
 										</div>
 										<div class="row">
 											<div class="12u">
-												<ul class="btn-large waves-effect waves-light blue">
-													<li style="margin-left:20%;"><input type="submit" class="special" value="Send Message" /></li>
-												</ul>
+													<input type="submit" class="special btn-large waves-effect waves-light blue" value="Send Message" />
 											</div>
 										</div>
 									</form>

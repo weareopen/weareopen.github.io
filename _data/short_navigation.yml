@@ -1,0 +1,11 @@
+- link: /clients/
+  name: Clients
+- link: http://blog.weareopen.coop
+  name: We Say
+- link: /what/
+  name: We do
+- link: /who/
+  name: We are
+- link: /contact/
+  name: Contact
+  highlight: true
