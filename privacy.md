@@ -5,17 +5,17 @@ permalink: /privacy/
 heading: All our privacy policies in one place
 ---
 
-# We Are Open GDPR statement of compliance
+## We Are Open GDPR statement of compliance
 
-## Introduction and overview
+#### Introduction and overview
 
 We have studied the Information Commissioner’s Office (ICO) guidelines concerning compliance with the new General Data Protection Regulation (GDPR) rules. This document explains how We Are Open Co-op (WAO) complies, using the structure of the ICO booklet, "[Preparing for the General Data Protection Regulation – 12 Steps to Take Now.](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)"
 
-## Awareness
+#### Awareness
 
 The Company Secretary and all members of WAO are aware that GDPR comes into effect on 25th May 2018. The Company Secretary and all members have read and adhere to our data protection privacy policies.
 
-## Data we hold
+#### Data we hold
 
 We hold the following data, which can be accessed by relevant members of WAO:
 
@@ -37,7 +37,7 @@ The Company Secretary and Weaver Financial Ltd. (our accountants) have access to
 
 We do not share this information with anyone outside of We Are Open Co-op and Weaver Financial Ltd (based in the UK).
 
-## Communicating private information
+#### Communicating private information
 
 We have taken the following steps:
 
@@ -47,15 +47,15 @@ We have taken the following steps:
 
 3. Ensured the Company secretary and members are up to date with latest policy amendments and procedures.
 
-## Individuals’ rights
+#### Individuals' rights
 
 Any individual or organisation may request to be informed on the data held by WAO about them. We will update or delete this data subject to reasonable requests in order to comply with GDPR. Note that we have a legal requirement to retain some financial records for auditing purposes.
 
-## Subject access requests
+#### Subject access requests
 
 We will respond to all requests for information within the one month compliance period. In order to action the request, please note that the individual or organisation will be requested to prove their identity.
 
-## Lawful basis for processing data
+#### Lawful basis for processing data
 
 * When an individual or organisation contacts us via email, their email address is stored on our email servers. It will not be added to any database or spreadsheet unless a working contract between us has been agreed.
 
@@ -65,35 +65,35 @@ We will respond to all requests for information within the one month compliance 
 
 * When people/organisations have completed a working contract for us, their postal and email addresses and bank details are saved in Xero, our online bookkeeping software.
 
-## Consent
+#### Consent
 
 Any individual or organisation subscribed to our email lists can unsubscribe at any time by clicking the relevant link in one of our communications, or by contacting us via our website. These email addresses are retained as ‘unsubscribed users’ for a one-year period for auditing reasons.
 
 Information held in Xero is stored solely for accounting purposes.
 
-## Children
+#### Children
 
 Individuals and organisations who subscribe to our email lists are over the age of 13. If we find that there are subscribers under this age, we will remove them from the list, explaining why we are doing so.
 
-## Data breaches
+#### Data breaches
 
 We aim to prevent data breaches by using strong passwords with two-factor authentication where available. If any organisations who we use as data processors are compromised we would take steps to follow their advice immediately, and inform the data subjects.
 
-## Data Protection by Design and Data Protection Impact Assessments
+#### Data Protection by Design and Data Protection Impact Assessments
 
 We have familiarised ourselves with the ICO’s code of practice on Privacy Impact Assessments.
 
-## Data Protection Officers
+#### Data Protection Officers
 
 We have appointed a Data Protection Officer (DPO) who can be contacted at: [DPO@weareopen.coop](mailto:DPO@weareopen.coop)  
 
-## International
+#### International
 
 We have registered with the UK’s lead data protection supervisory authority, the Information Commissioner’s Office (ICO).
 
-# **Our commitment to your privacy	**
+## Our commitment to your privacy	
 
-## We’re serious about protecting your personal data. This note explains:
+#### We’re serious about protecting your personal data. This note explains:
 
 * How we obtained your personal data;
 
@@ -111,29 +111,23 @@ We have registered with the UK’s lead data protection supervisory authority, t
 
 * How you can access your personal data
 
-## If you have any questions or queries about this notice please email us at DPO@weareopen.coop
+#### If you have any questions or queries about this notice please email us at DPO@weareopen.coop
 
-## How We Are Open Co-operative Ltd ("we") use your information
-
-** **
+#### How We Are Open Co-operative Ltd ("we") use your information
 
 Your privacy is important to us. We are committed to safeguarding the privacy of your information.
 
-** **
-
-## Why are we collecting your data?
+#### Why are we collecting your data?
 
 When required we collect personal data to provide an appropriate level of service to you and to comply with the law regarding data sharing. In legal terms this is called ‘legitimate interests’. We collected your personal data when you corresponded with us during a sales process or signed up for one of our services. When it is required, we may also ask you for your consent to process your data. We never share your information with others.
 
-## The categories of information that we may collect and hold include:
-
-** **
+#### The categories of information that we may collect and hold include:
 
 * Personal information (such as name, telephone number, address and email address)
 
 * Corporate information (such as company name, address, email address, bank details)
 
-**How and when we use your personal data**
+How and when we use your personal data
 
 We’re committed to using your personal data responsibly and lawfully. Here’s what we do with your personal data:
 
@@ -147,17 +141,17 @@ Google Apps’ Privacy Sheild Certification is here:[ https://www.privacyshield.
 
 To help us to maintain the accuracy of the personal data that we hold please let us know if we hold out of date or inaccurate information about you.
 
-## Storing your data
+#### Storing your data
 
 We hold your data for varying lengths of time depending on the type of information in question but in doing so we always comply with Data Protection legislation. We will hold your data for six years from the end of contracted business relationship or the date of last correspondence, whichever is the later.
 
-## Who do we share your information with?
+#### Who do we share your information with?
 
 We will not share your information with third parties without your consent unless the law requires us to do so or as necessary for own legitimate interests or those of other persons and organisations eg:
 
 * For good governance, accounting and managing and auditing our business operations
 
-**Sharing your personal data**
+Sharing your personal data
 
 There are only a few occasions where we will share your personal data with a third party. They are:
 
@@ -173,7 +167,7 @@ There are only a few occasions where we will share your personal data with a thi
 
 * Payment systems, where it is necessary to process transactions.
 
-## Requesting access to your personal data
+#### Requesting access to your personal data
 
 Under Data Protection legislation, you have the right to request access to information about you that we hold. To make a request for your personal information contact our Data Protection Officer (DPO).
 
@@ -193,11 +187,11 @@ For further information on how your information is used, how we maintain the sec
 
 If you have a concern about the way we are collecting or using your personal data, you should raise your concern with us in the first instance or directly to the Information Commissioner’s Office at[ https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)
 
-## Contact
+#### Contact
 
 To discuss anything in this privacy notice, please contact our Data Protection Officer: DPO@weareopen.coop
 
-# **DATA PROTECTION POLICY**
+## DATA PROTECTION POLICY
 <table>
   <tr>
     <td>"Data Protection Legislation"</td>
@@ -211,11 +205,11 @@ The Data Protection Officer ("DPO") is responsible for ensuring compliance with 
 
 Any questions about the operation of this policy or any concerns that the policy has not been followed should be referred in the first instance to the DPO.
 
-**What is personal data?**
+What is personal data?
 
 Personal data is defined as data relating to a living individual who is or can be identified either from the data or from the data in conjunction with other information that is in, or is likely to come into, the possession of the the data controller.
 
-**Processing personal data**
+Processing personal data
 
 All personal data should be processed in accordance with the Legislation and this policy. Any breach of this policy may result in disciplinary action such as continued membership of WAO. 
 
@@ -233,7 +227,7 @@ The Secretary and members who process data on behalf of WAO should assume that w
 
 ·  	If neither of these conditions are satisfied, individuals should contact the Data Protection Compliance Manager before processing personal data.
 
-**Compliance with the Legislation**
+Compliance with the Legislation
 
 The Secretary and members who process data on WAO’s behalf have a responsibility for processing personal data in accordance with the Legislation.  Anyone who has responsibility for processing personal data must ensure that they comply with the data protection principles in the Legislation. These state that personal data must:
 
@@ -253,7 +247,7 @@ The Secretary and members who process data on WAO’s behalf have a responsibili
 
 * not be transferred outside the European Economic Area unless with the consent of the data subject or where the country is determined to have adequate systems in place to protect personal data. 
 
-**Monitoring the use of personal data**
+Monitoring the use of personal data
 
 WAO are committed to ensuring that this data protection policy is put into practice and that appropriate working practices are being followed. To this end the following steps will be taken:
 
@@ -265,7 +259,7 @@ WAO are committed to ensuring that this data protection policy is put into pract
 
 ·  	An annual report on the level of compliance with or variance from good data protection practices will be produced by the Secretary. Data breaches will be recorded and investigated to see what improvements can be made to prevent recurrences. 
 
-**Handling personal data and data security**
+Handling personal data and data security
 
 We will take appropriate technical and organisational steps to guard against unauthorised or unlawful processing.  Records will be stored on Google Apps, Xero, MailChimp, Loomio. Access to these records will be restricted to account holders with passwords only. Paper-based records relating to members, clients or suppliers will be kept secure in a locked cabinet. Access to these will be restricted to the Secretary. The privacy policies of each of the cloud-based applications used by WAO can be found as follows:
 
@@ -285,7 +279,7 @@ Where personal data needs to be deleted or destroyed, adequate measures will be 
 
 All data will be stored in a secure location and precautions will be taken to avoid data being accidentally disclosed.  Any agent employed to process data on our behalf will be bound to comply with this data protection policy by a written contract.  Personal data stored on a laptop should be password protected.
 
-**The rights of individuals**
+The rights of individuals
 
 The Legislation gives individuals certain rights to know what data is held about them and what it is used for. In principle everyone has the right to see copies of all personal data held about them. There is also a right to have any inaccuracies in data corrected or erased. Data subjects also have the right to prevent the processing of their data for direct marketing purposes.
 
@@ -293,11 +287,11 @@ Any request for access to data under the Legislation should be made to the DPO i
 
 When a written data subject access request is received the data subject will be given a description of a) the personal data, b) the purposes for which it is being processed, c) those people and organisations to whom the data may be disclosed, d) be provided with a copy of the information in an intelligible form.
 
-**Sensitive data**
+Sensitive data
 
 No sensitive data will be requested, gathered or stored by WAO.
 
-**Changes to this policy**
+Changes to this policy
 
 We reserve the right to change this policy at any time.  Where appropriate we will notify data subjects of those changes by mail or email.
 
