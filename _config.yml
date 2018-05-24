@@ -10,3 +10,4 @@ twitter_username: weareopencoop
 baseurl: 
 plugins:
   - jekyll-redirect-from
+encoding: UTF-8
