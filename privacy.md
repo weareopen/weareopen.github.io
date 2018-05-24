@@ -8,7 +8,7 @@ heading: All our privacy policies in one place
 = We Are Open GDPR statement of compliance =
 
 == Introduction and overview ==
-We have studied the Information Commissioner's Office (ICO) guidelines concerning compliance with the new General Data Protection Regulation (GDPR) rules. This document explains how We Are Open Co-op (WAO) complies, using the structure of the ICO booklet, "Preparing for the General Data Protection Regulation Ð 12 Steps to Take Now."
+We have studied the Information Commissioner's Office (ICO) guidelines concerning compliance with the new General Data Protection Regulation (GDPR) rules. This document explains how We Are Open Co-op (WAO) complies, using the structure of the ICO booklet, "Preparing for the General Data Protection Regulation â€“ 12 Steps to Take Now."
 
 Awareness
 The Company Secretary and all members of WAO are aware that GDPR comes into effect on 25th May 2018. The Company Secretary and all members have read and adhere to our data protection privacy policies.
@@ -23,7 +23,7 @@ Names, addresses, email addresses and Director's interests held about members of
 Email addresses, names and self-identified descriptors (eg "CEO") of people who have been the main contact within an organisation with which we have worked.
 
 The Company Secretary and Weaver Financial Ltd. (our accountants) have access to the following data:
-Email addresses. postal addresses of organisations with which we have workedÐ recorded in Google Apps and Xero (both password protected).
+Email addresses. postal addresses of organisations with which we have workedâ€“ recorded in Google Apps and Xero (both password protected).
 Postal addresses and bank details of organisations with whom we have worked. This is held securely in Xero.
 
 We do not share this information with anyone outside of We Are Open Co-op and Weaver Financial Ltd (based in the UK).
@@ -47,7 +47,7 @@ When people/organisations have entered into a working contract with us, their po
 When people/organisations have completed a working contract for us, their postal and email addresses and bank details are saved in Xero, our online bookkeeping software.
  
 Consent
-Any individual or organisation subscribed to our email lists can unsubscribe at any time by clicking the relevant link in one of our communications, or by contacting us via our website. These email addresses are retained as Ôunsubscribed users' for a one-year period for auditing reasons.
+Any individual or organisation subscribed to our email lists can unsubscribe at any time by clicking the relevant link in one of our communications, or by contacting us via our website. These email addresses are retained as â€˜unsubscribed users' for a one-year period for auditing reasons.
 Information held in Xero is stored solely for accounting purposes.
  
 Children
