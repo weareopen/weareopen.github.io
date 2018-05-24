@@ -5,7 +5,7 @@ permalink: /privacy/
 heading: All our privacy policies in one place
 ---
 
-## We Are Open GDPR statement of compliance
+## GDPR statement of compliance
 
 #### Introduction and overview
 
