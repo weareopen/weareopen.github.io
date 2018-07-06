@@ -1,14 +1,12 @@
 ---
 layout: home
 redirect_from:
-  - /thinkathon.html
   - /badges.html
   - /chatbot.html
   - /contact.html
   - /coop.html
   - /members.html
   - /story.html
-  - /thinkathon.html
   - /webinars.html
   - /workshops.html
 ---
