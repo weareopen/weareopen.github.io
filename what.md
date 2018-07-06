@@ -21,6 +21,8 @@ img: umbrella-intro.png
                                 <h5>The Think-a-thon</h5>
 
                                 <p>We take a visually facilitated group approach to chewing through a knotty challenge. This particularly suits new projects and ideas. Because it's a bit different, we had to invent a new word for it.</p>
+                                <p>
+                                <a href="{{ "/" | relative_url }}thinkathon" alt="learn more" id="download-button" class="btn-large waves-effect waves-light blue">Learn more</a></p>
 
                                 <h5>Strategic Planning</h5>
 
