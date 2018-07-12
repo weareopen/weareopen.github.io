@@ -50,18 +50,6 @@
     }
   }
 
-  &.small {
-    height: 300px;
-  }
-
-  &.medium {
-    height: 400px;
-  }
-
-  &.large {
-    height: 500px;
-  }
-
   // Horizontal Cards
   &.horizontal {
     &.small, &.medium, &.large {
