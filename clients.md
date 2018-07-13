@@ -22,7 +22,7 @@ img: this-production.png
           <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-action">
-          <a href="https://blog.weareopen.coop/creative-commons-thinkathon-f82bfbee00">Creative Commons Thinkathon</a><br/>
+          <a href="https://blog.weareopen.coop/creative-commons-thinkathon-f82bfbee00">CC Thinkathon</a><br/>
           <a href="https://blog.weareopen.coop/the-future-of-the-commons-is-an-open-planet-e2ef5095aef">CC Summit participation</a>
         </div>
       </div>
@@ -42,7 +42,7 @@ img: this-production.png
         </div>
         <div class="card-action">
 	      <a href="https://medium.com/passbolt/announcing-the-passbolt-community-forum-6ea79fbfe843">Passbolt community</a><br/>
-          <a href="https://medium.com/passbolt/help-me-jekyll-1ac075d75d28">Jekyll-based documentation</a><br/>
+          <a href="https://medium.com/passbolt/help-me-jekyll-1ac075d75d28">Jekyll-based docs</a><br/>
         </div>
       </div>
     </div>

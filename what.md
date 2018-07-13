@@ -53,6 +53,9 @@ img: umbrella-intro.png
                                 <h5>Creating</h5>
 
                                 <p>The We Are Open Co-op is filled with creativity. We do branding and visuals, we do wireframes and illustrations. We make jam out of aloe vera. We're creative, so we make all kinds of things both digitally and in the physical reality.</p>
+                                 <p>
+                                <a href="{{ "/" | relative_url }}tools" alt="learn more" id="download-button" class="btn-large waves-effect waves-light blue">Visit our tools</a></p>
+
 
                                 <h5>Writing</h5>
 

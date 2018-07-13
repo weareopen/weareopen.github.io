@@ -107,7 +107,7 @@
 
 	             <div class="row">
 	<div class="col s12 m6 l6 ">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="/assets/images/members/doug.jpg" alt="Doug Belshaw" />
@@ -127,7 +127,7 @@
         </div>
 	</div>
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="/assets/images/members/john.jpg" alt="John Bevan" />
@@ -149,7 +149,7 @@
 
 <div class="row">
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="/assets/images/members/grainne.jpg" alt="Grainne Hamilton" />
@@ -169,7 +169,7 @@
         </div>
 	</div>
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="/assets/images/members/laura.jpg" alt="Laura Hilliger" />
@@ -191,7 +191,7 @@
 
 <div class="row">
 		<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="/assets/images/members/bryan.jpg" alt="Bryan Mathers" />
@@ -252,6 +252,8 @@
 <script src="/js/jquery.min.js"></script>
 <script src="/js/materialize.min.js"></script>
 <script src="/js/init.js"></script>
+<script src="/_plugins/jquery-match-height/jquery.matchHeight.js"></script>
+
 <script>
 /*
 var instance = M.Carousel.init({
@@ -266,6 +268,11 @@ var instance = M.Carousel.init({
     indicators: true
   });
   */
+  
+$(function() {
+	$('.card').matchHeight();
+});
+
 </script>
 
 

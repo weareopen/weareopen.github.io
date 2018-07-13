@@ -8,7 +8,7 @@ img: innovation-swat-team.png
 ---
 <div class="row">
 	<div class="col s12 m6 l6 ">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/doug.jpg" alt="Doug Belshaw">
@@ -28,7 +28,7 @@ img: innovation-swat-team.png
         </div>
 	</div>
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/john.jpg" alt="John Bevan">
@@ -50,7 +50,7 @@ img: innovation-swat-team.png
 
 <div class="row">
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/grainne.jpg" alt="Grainne Hamilton">
@@ -70,7 +70,7 @@ img: innovation-swat-team.png
         </div>
 	</div>
 	<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/laura.jpg" alt="Laura Hilliger">
@@ -92,7 +92,7 @@ img: innovation-swat-team.png
 
 <div class="row">
 		<div class="col s12 m6 l6">
-        <div class="card medium blue lighten-5">
+        <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
                         <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/bryan.jpg" alt="Bryan Mathers">

@@ -50,6 +50,18 @@
     }
   }
 
+  &.small, &.small.card-content {
+    height: 300px;
+  }
+
+  &.medium, &.medium.card-content {
+    height: 400px;
+  }
+
+  &.large, &.large.card-content {
+    height: 500px;
+  }
+
   // Horizontal Cards
   &.horizontal {
     &.small, &.medium, &.large {
