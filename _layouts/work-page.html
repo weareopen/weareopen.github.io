@@ -6,11 +6,11 @@ layout: default
 	    <div class="section">
         	<h1 class="page-title">{{ page.heading }}</h1>
 	        <div class="row">
-	            <div class="col s12 m12 l4">
+	            <div class="col s12 m12 l7">
 	                <p class="entry-text">{{ page.intro-text }}</p>
 	            </div>
 
-	            <div class="col s12 m12 l8">
+	            <div class="col s12 m12 l5">
 		             {% if page.img %}<img class="responsive-img right" src="{% for img in page.img %}{{ "" | relative_url }}/assets/images/{{img}}{% unless forloop.last %}, {% endunless %}{% endfor %}" alt="{{ page.image-alt }}">{% endif %}
 		        </div>
 	        </div>

@@ -10,7 +10,7 @@ heading: Behold the Thinkathon
 <div class="row">
     <div class="col s12 m6 l6 offset-l2">
     	<h3>We help you think.</h3>
-		<p>Take a mere sliver of an idea, and ask it questions. Put on different glasses and look at it again. Stand in another person’s shoes and see how it looks from there. You’ll be surprised at the clarity that this can produce. The outcomes of a Thinkathon relate to the breadth of experience in the room – and the ability to think openly.</p>
+		<p>Stand in another person’s shoes and see how an idea looks from there. You’ll be surprised at the clarity that this can produce. The outcomes of a Thinkathon relate to the breadth of experience in the room – and the ability to think openly.</p>
 		<p>We work towards finding solutions. We help you think sideways about what you are trying to do – or even why you need to do it. </p>
 	</div>
 	<div class="col s12 m6 l3">

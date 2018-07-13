@@ -5,7 +5,7 @@ redirect_from:
 title: What we do
 permalink: /work/
 heading: Open our umbrella
-intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
+intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "work" into three main areas.
 img: umbrella-intro.png
 ---
 

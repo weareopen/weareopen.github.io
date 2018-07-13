@@ -5,7 +5,7 @@ redirect_from:
 title: who we are
 permalink: /about/
 heading: We love our members
-intro-text: We're here to change the world. Working openly is our way of doing that - moving people and organisations from ordinary to extraordinary. We are thinkers and writers, philosophers and makers. We're technologists, philanthropists and community-minded folks. We are open and engaged, get to know us. We're friendly too :) 
+intro-text: We are a cooperative. We are thinkers and writers, philosophers and makers. We're technologists, educators, philanthropists and community-minded folks. We are open and engaged. Get to know us, we're looking forward to it!
 img: innovation-swat-team.png
 ---
 <div class="row">
