@@ -15,7 +15,7 @@ img: umbrella-intro.png
 						<div class="row">
                         	<div class="col s12 m3 l6">
 	                        	<h5>The Workshop</h5>
-
+								<img class="responsive-img" src="{{ "/" | relative_url }}assets/images/what/laura-workshop.jpg" alt="Laura facilitating a workshop at the Mozilla Summit">
                                 <p>Most of us have been facilitating workshops since we were born. Some even before. They're highly participatory, and democratic.</p>
 
                         	</div>
