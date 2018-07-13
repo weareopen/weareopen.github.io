@@ -4,9 +4,11 @@ redirect_from:
   - /what/
 title: What we do
 permalink: /work/
-heading: Open our umbrella
-intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "work" into three main areas.
-img: umbrella-intro.png
+heading: Experience a Thinkathon
+intro-text: Take a mere sliver of an idea, and ask it questions. Put on different glasses and look at it again. Hire us for a Thinkathon, and we'll jumpstart your project.
+img: thinkathon-idea.png
+button-text: Learn more
+link: /thinkathon/
 ---
 
 <div class="section">

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: work-page
 redirect_from:
   - /who/
 title: who we are
@@ -7,6 +7,8 @@ permalink: /about/
 heading: We love our members
 intro-text: We are a cooperative. We are thinkers and writers, philosophers and makers. We're technologists, educators, philanthropists and community-minded folks. We are open and engaged. Get to know us, we're looking forward to it!
 img: innovation-swat-team.png
+button-text: Join us!
+link: /join/
 ---
 <div class="row">
 	<div class="col s12 m6 l6 ">
