@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_from:
+  - /thinkathon.html
 title: Behold the Thinkathon
 permalink: /thinkathon/
 heading: Behold the Thinkathon
