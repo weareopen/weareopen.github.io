@@ -1,5 +1,7 @@
 - link: /about/
   name: about
+- link: /work/
+  name: work
 - link: /clients/
   name: clients
 - link: http://blog.weareopen.coop
