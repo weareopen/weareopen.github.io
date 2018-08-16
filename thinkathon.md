@@ -31,6 +31,6 @@ heading: Behold the Thinkathon
 		<p>We think out loud. We will package up what was captured during the day into actionable next steps.</p>
 		<h3>Our creds</h3>
 		<p>We've run similar participatory events for Greenpeace, Mozilla, Telefonica, Creative Commons, NCS, City & Guilds, Jisc and more. We're practiced creative facilitators, educators, technologists and, most importantly, open advocates.</p>
-		<p><a href="{{ "/" | relative_url }}/contact/" class="btn-large waves-effect waves-light blue">Sound good? Get in touch!</a></p>
+		<p><a href="{{ "/" | relative_url }}contact/" class="btn-large waves-effect waves-light blue">Sound good? Get in touch!</a></p>
 		</div>
 </div>
