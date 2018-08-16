@@ -80,9 +80,9 @@ link: /thinkathon/
                         	<div class="col s12 m6 l3">
 	                        	 <h5><i class="work material-icons small">loyalty</i> Co-ops</h5>
 
-                              <p>Curious about alternative economies? We are proud to be members of a movement that is over 150 years old, and we're proud members of the <a href="http://tech.coops">CoTech Co-operative</a> too.</p>
+                              <p>Curious about alternative economies? We are proud to be members of a movement that is over 150 years old, and we're proud members of the <a href="https://www.coops.tech/">CoTech Co-operative</a> too.</p>
                                 <p>
-                                <a href="{{ "/" | relative_url }}thinkathon" alt="learn more" id="download-button" class="btn-small waves-effect waves-light">Learn more</a></p>
+                                <a href="https://www.coops.tech/" alt="learn more" id="download-button" class="btn-small waves-effect waves-light">Learn more</a></p>
                             </div>
                         	<div class="col s12 m6 l3">
 	                        	  <h5><i class="work material-icons small">important_devices</i> Edtech</h5>
