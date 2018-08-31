@@ -46,7 +46,7 @@ link: /thinkathon/
 						<div class="row">
                         	<div class="col s12 m6 l3">
 	                        	<h5><i class="work material-icons small">record_voice_over</i> Speaking</h5>
-                                <p>Most of our members are accomplished speakers. Shows, Conferences, CPD days - you name it. Lasers and walk-on theme songs are of course optional, but if your conference has lasers, you should call us.</p>
+                                <p>Our members are accomplished speakers. Shows, Conferences, CPD days - you name it. Lasers and walk-on theme songs are of course optional, but if your conference has lasers, you should call us.</p>
 
                         	</div>
                         	<div class="col s12 m6 l3">
