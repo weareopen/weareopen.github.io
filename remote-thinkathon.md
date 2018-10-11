@@ -3,19 +3,11 @@ layout: page
 title: Guide to Remote Thinkathon
 permalink: /remote/
 heading: Guide to Remote Thinkathon
+intro-text: This guide will help you prepare for your remote thinkathon. If you have any questions, don't hesitate to get in touch with any member of We Are Open Co-op. We'll help you through.
 ---
 
 <div class="row">
-    <div class="col s12 m6 l6">
-    	<h3>Thanks for choosing to think with us!</h3>
-		<p>This guide will help you prepare for your remote thinkathon. If you have any questions, don't hesitate to get in touch with any member of We Are Open Co-op. We'll help you through.</p>
-	</div>
-	<div class="col s12 m6 l3">
-		<img src="{{ "/" | relative_url }}assets/images/warning-thinkathon.png" class="responsive-img" alt="do not under estimate the power of facilitated thinking"/>
-	</div>
-</div>
 
-<div class="row">
 	<div class="col s12 m6 l6">
     	<h3>Rules</h3>
 		<p>Armed with open minds, we gather to think. We must focus on the problems at hand. To ensure an equitable and just Thinkathon for all participants, We Are Open Co-op asks that each individual: </p>
@@ -26,6 +18,7 @@ heading: Guide to Remote Thinkathon
 			<li><strong>Know how</strong> decisions will be made. Discuss in advance who will make decisions. Or is it consensus-based? Take a few minutes to let your co-thinkers know. This will help when knotty issues arise.</li>
 			<li><strong>Stay together</strong>, use a "Yes, and..." approach.</li>
 		</ul>
+
 			<h3>Tools</h3>
 		<p>We load our kits with tools of the trade. Technology empowers us, and it changes the way we get things done. For remote Thinkathons, we use:
 </p>
@@ -66,4 +59,7 @@ heading: Guide to Remote Thinkathon
 		<p>Thinkathons are fun, interactive experiences that will squeeze your brain dry. The aim of this brief guide is to set you up for success based on our experience.</p>
 		<p><a href="{{ "/" | relative_url }}contact/" class="btn-large waves-effect waves-light blue">Questions? Get in touch!</a></p>
 		</div>
+			<div class="col s12 m6 l3">
+		<img src="{{ "/" | relative_url }}assets/images/warning-thinkathon.png" class="responsive-img" alt="do not under estimate the power of facilitated thinking"/>
+	</div>
 </div>
