@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Guide to Remote Thinkathon
-permalink: /remote-thinkathon/
+permalink: /remote/
 heading: Guide to Remote Thinkathon
 ---
 
