@@ -19,7 +19,7 @@ heading: Guide to Remote Thinkathon
 	<div class="col s12 m6 l6">
     	<h3>Rules</h3>
 		<p>Armed with open minds, we gather to think. We must focus on the problems at hand. To ensure an equitable and just Thinkathon for all participants, We Are Open Co-op asks that each individual: </p>
-		<ul>
+		<ul class="lists">
 			<li><strong>Be present.</strong> Life is messy, we know. Please take calls and do your emails outside the room.</li>
 			<li><strong>Speak up</strong> if you have something to share. Say out loud when it's necessary to look at screens and when not.</li>
 			<li><strong>Make room</strong> for everyone to speak. Pause and invite remote thinkers into the conversation. It's hard to be on the screen.</li>
@@ -29,7 +29,7 @@ heading: Guide to Remote Thinkathon
 			<h3>Tools</h3>
 		<p>We load our kits with tools of the trade. Technology empowers us, and it changes the way we get things done. For remote Thinkathons, we use:
 </p>
-		<ul>
+		<ul class="lists">
 			<li><strong>Collaborative documents</strong>, such as Etherpad / Google Docs. These hold the Thinkathon Agenda, serve as a place to take notes, and in some cases, a backchannel chat to make jokes or to solve technical problems. <em>Meanwhile in the backchannel, Laura writes 'I can't hear you! Move the mic closer!'</em></li>
 			<li><strong>Photo-sharing</strong>, such as uploading to a document or facing a computer towards a whiteboard. Google Slides work too.
 </li>
@@ -40,7 +40,7 @@ heading: Guide to Remote Thinkathon
 		</ul>
     	<h3>Room specs</h3>
 		<p>Creativity needs space. Be sure you have a comfortable room where you can move the chairs and sit together in a half-circle. Your remote participants need to see everyone, which means your positioning in the room and lighting is important.</p>
-		<ul>
+		<ul class="lists">
 			<li><strong>Table:</strong> A square or circular table is best.</li>
 			<li><strong>Seating:</strong> A half circle will allow you to put laptops in front of the group. </li>
 			<li><strong>Atmosphere:</strong> Ensure there is Internet, power and good lighting. </li>
@@ -49,13 +49,13 @@ heading: Guide to Remote Thinkathon
 		<h3>Tech check</h3>
 		<p>Technology has a habit of going wrong, especially at a distance, so...a few days before our Thinkathon, we'll schedule a quick tech check. We'll ask you to meet us using the actual set-up you plan to use for the day. We'll have a quick fifteen minute chat to check the audio and visuals.</p>
 		<h4>Audio:</h4>
-		<ul>
+		<ul class="lists">
 			<li>Have an external microphone, or use a secondary laptop in the center of the table (be sure to mute the other laptops!) Virtual participants should use headphones. (Image of Dr. Echo)</li>
 			<li>Check sound levels, and make it easy for remote participants to say when it's difficult to hear.</li>
 			<li>Default to muted when you're not speaking, there's always unexpected sounds to distract people :)</li>
 		</ul>
 		<h4>Video:</h4>
-		<ul>
+		<ul class="lists">
 			<li>We recommend two computers. On one you can fullscreen the virtual participants and on the other you can full screen the collaborative documents or document camera.
 </li>
 		</ul>
