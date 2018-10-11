@@ -1,9 +1,7 @@
 ---
 layout: page
-redirect_from:
-  - /thinkathon.html
 title: Guide to Remote Thinkathon
-permalink: /thinkathon/
+permalink: /remote-thinkathon/
 heading: Guide to Remote Thinkathon
 ---
 
@@ -18,10 +16,7 @@ heading: Guide to Remote Thinkathon
 </div>
 
 <div class="row">
-	<div class="col s12 m6 l3 offset-l2">
-		<img src="{{ "/" | relative_url }}assets/images/thinkathon-process.png" class="responsive-img" alt="Have a call, set an agenda, gather the thinkers, capture outputs and suggest next steps"/>
-	</div>
-    <div class="col s12 m6 l6">
+    <div class="col s12 m12 l12">
     	<h3>Rules</h3>
 		<p>Armed with open minds, we gather to think. We must focus on the problems at hand. To ensure an equitable and just Thinkathon for all participants, We Are Open Co-op asks that each individual: </p>
 		<ul>
