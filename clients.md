@@ -66,6 +66,9 @@ link: /thinkathon/
         </div>
       </div>
     </div>
+
+    <div class='show-on-large clearfix'></div>
+
      <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-logo row center-align">
