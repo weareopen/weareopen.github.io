@@ -11,7 +11,7 @@ img: this-production.png
 	<div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/badge_bloom.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Badge Bloom / Badge Drawesome</h5>
@@ -27,7 +27,7 @@ img: this-production.png
     <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/collaborative_agenda.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Collaborative agendas</h5>
@@ -43,7 +43,7 @@ img: this-production.png
 	<div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/defining_cast.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Define the cast / Stand in their shoes</h5>
@@ -59,7 +59,7 @@ img: this-production.png
     <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/journey_drawing.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Drawing your own journey</h5>
@@ -123,7 +123,7 @@ img: this-production.png
      <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/design_sprint.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Google Design Sprint</h5>
@@ -219,7 +219,7 @@ img: this-production.png
     <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/openbadges_101.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>What do we mean by recognition?</h5>
