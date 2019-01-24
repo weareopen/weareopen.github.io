@@ -8,6 +8,23 @@ img: this-production.png
 
 ---
 <div class="row">
+	<div class="col s12 m7 l4">
+      <div class="card">
+      <div class="card-image">
+          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+        </div>
+        <div class="card-content">
+	        <h1>Badge Bloom / Badge Drawesome</h1>
+          <p>After completing the Define the Cast exercise, badges are created for the personas that have been identified.</p>
+        </div>
+        
+        <div class="card-action">
+          <a href="https://blog.weareopen.coop/what-do-we-mean-by-recognition-3fd501e1a971">Design a badge for a persona</a><br/>
+        </div>
+      </div>
+    </div>
+
+	
     <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
