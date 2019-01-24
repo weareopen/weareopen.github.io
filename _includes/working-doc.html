@@ -174,7 +174,7 @@ img: this-production.png
           <img src="{{ "/" | relative_url }}assets/images/tools/remixer.png" class="responsive-img" alt="Remixer toys">
         </div>
         <div class="card-content">
-	        <h5>Remix Library</h5>
+	        <h5>Remixer Machine</h5>
           <p>Some people love to draw and tinker. Lately <a href="http://visualthinkery.com">Bryan</a> has been drawing and tinkering with remixable SVGs. His library of remix tools will let you meme and build t-shirts, export PNGs and share feedback.</p>
         </div>
         
