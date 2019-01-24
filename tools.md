@@ -107,7 +107,7 @@ img: this-production.png
      <div class="col s12 m7 l4">
       <div class="card">
       <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/tools/learning-materials.png" class="responsive-img" alt="Learning materials umbrella">
+          <img src="{{ "/" | relative_url }}assets/images/tools/fun-fame-fortune.png" class="responsive-img" alt="Learning materials umbrella">
         </div>
         <div class="card-content">
 	        <h5>Fun, fame, and fortune</h5>
