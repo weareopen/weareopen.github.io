@@ -17,7 +17,7 @@ textlink-alt: View past issues
     <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/question.png" class="responsive-img" alt="Badgr">
+          <img src="{{ "/" | relative_url }}assets/images/badgr.png" class="responsive-img" alt="Badgr">
           <!--<span class="card-title">Badgr</span>-->
         </div>
         <div class="card-content">
@@ -39,7 +39,7 @@ textlink-alt: View past issues
     <div class="col s12 m7 l4">
 	<div class="card">
         <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/obf.png" class="responsive-img" alt="Question marks">
+          <img src="{{ "/" | relative_url }}assets/images/question.png" class="responsive-img" alt="Question marks">
           <!--<span class="card-title">Sponsorship</span>-->
         </div>
         <div class="card-content">
