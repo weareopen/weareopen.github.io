@@ -36,7 +36,18 @@ textlink-alt: View past issues
         </div>
       </div>	    
     </div>
-        
+    <div class="col s12 m7 l4">
+	<div class="card">
+        <div class="card-logo row center-align">
+          <img src="{{ "/" | relative_url }}assets/images/obf.png" class="responsive-img" alt="Question marks">
+          <!--<span class="card-title">Sponsorship</span>-->
+        </div>
+        <div class="card-content">
+		<p><strong>Help us to continue The Learning Fractal - and promote your organisation - by becoming a sponsor.</strong> If your organisation would like to discuss sponsorship opportunities, please <a href="mailto:learningfractal@weareopen.coop">get in touch</a>!</p>
+        </div>
+      </div>	    
+    </div>     
+	
 </div>
 
 
