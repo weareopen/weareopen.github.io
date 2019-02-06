@@ -23,6 +23,8 @@ link: https://weareopen.us14.list-manage.com/subscribe?u=996c23c5b9ec4e92e3762a2
           <p><a href="http://info.badgr.io/">Badgr</a> is an open source achievement recognition and tracking system used to issue, organize, and share Open Badges. It is used by staff and badge earners around the world for competency recognition, professional development, and connected learning.</p>
         </div>
       </div>
+     </div>
+     <div class="col s12 m7 l4">
 	<div class="card">
         <div class="card-logo row center-align">
           <img src="{{ "/" | relative_url }}assets/images/obf.png" class="responsive-img" alt="Open Badge Factory">
