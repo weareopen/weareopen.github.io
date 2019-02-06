@@ -10,7 +10,7 @@ link: https://weareopen.us14.list-manage.com/subscribe?u=996c23c5b9ec4e92e3762a2
 
 ---
 <div>
-<h2>Sponsors</h2>
+<h3>Sponsors</h3>
 </div>
 <div class="row">
     <div class="col s12 m7 l4">
