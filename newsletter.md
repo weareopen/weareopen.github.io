@@ -4,7 +4,7 @@ title: Newsletter
 permalink: /newsletter/
 heading: The Learning Fractal
 intro-text: We Are Open's monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!
-img: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mandel_zoom_08_satellite_antenna.jpg/320px-Mandel_zoom_08_satellite_antenna.jpg
+img: /assets/images/learning-fractal-logo.png
 button-text: Sign up
 link: https://weareopen.us14.list-manage.com/subscribe?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
 textlink: http://us14.campaign-archive1.com/home/?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
