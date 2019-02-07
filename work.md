@@ -8,7 +8,7 @@ heading: Experience a Thinkathon
 intro-text: Take a mere sliver of an idea, and ask it questions. Put on different glasses and look at it again. Hire us for a Thinkathon, and we'll jumpstart your project.
 img: thinkathon-idea.png
 button-text: Learn more
-link: /thinkathon/
+link: https://weareopen.coop/thinkathon/
 ---
 
 <div class="section">
