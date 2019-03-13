@@ -3,55 +3,52 @@ layout: work-page
 title: Projects we drive
 permalink: /sponsored/
 heading: Projects we drive
-intro-text: We're ideas people. Alongside our client work, we look for sponsorship and try to help the communities we're involved in with initiatives like...
-img: this-production.png
-button-text: Become a sponsor
-link: /contact/
+intro-text: We Are Open's monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!
+img: learning-fractal-logo.png
+button-text: Sign up
+link: https://weareopen.us14.list-manage.com/subscribe?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
+textlink: http://us14.campaign-archive1.com/home/?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
+textlink-alt: View past issues
 ---
 <div>
-<h4>Funded projects</h4>
+<h4>Sponsors</h4>
 </div>
 <div class="row">
     <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/learning-fractal-logo.png" class="responsive-img" alt="the Learning Fractal">
-          <!--<span class="card-title">the Learning Fractal</span>-->
+          <img src="{{ "/" | relative_url }}assets/images/badgr.png" class="responsive-img" alt="Badgr">
+          <!--<span class="card-title">Badgr</span>-->
         </div>
         <div class="card-content">
-          <p><a href="{{ "/" | relative_url }}/newsletter/">the Learning Fractal</a> is a monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!</p>
-        </div>
-         <div class="card-action">
-          <a href="{{ "/" | relative_url }}/newsletter/">Learn more</a><br/>
+          <p><a href="http://info.badgr.io/">Badgr</a> is an open source achievement recognition and tracking system used to issue, organize, and share Open Badges. It is used by staff and badge earners around the world for competency recognition, professional development, and connected learning.</p>
         </div>
       </div>
      </div>
      <div class="col s12 m7 l4">
 	<div class="card">
         <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/work/fractal-live.png" class="responsive-img" alt="Fractal Live">
-          <!--<span class="card-title">Fractal Live</span>-->
+          <img src="{{ "/" | relative_url }}assets/images/obf.png" class="responsive-img" alt="Open Badge Factory">
+          <!--<span class="card-title">Open Badge Factory</span>-->
         </div>
         <div class="card-content">
-		<p><a href="{{ "/" | relative_url }}/streams/">Fractal Live</a> is a way to learn directly from our members. We stream chats about our expertise and you can even schedule a free surgery session to talk with We Are Open Co-op members about your thing.</p>
-        </div>
-         <div class="card-action">
-          <a href="{{ "/" | relative_url }}/streams/">Watch this</a><br/>
+		<p><a href="https://openbadgefactory.com/">Open Badge Factory</a> is a versatile platform for organisations wanting to create, issue and manage Open Badges. OBF provides the tools organisations need to implement a meaningful and sustainable Open Badges system.</p>
         </div>
       </div>	    
     </div>
     <div class="col s12 m7 l4">
 	<div class="card">
         <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/work/fractal-forum.png" class="responsive-img" alt="Fractal Forum">
-          <!--<span class="card-title">Fractal Forum</span>-->
+          <img src="{{ "/" | relative_url }}assets/images/question.png" class="responsive-img" alt="Question marks">
+          <!--<span class="card-title">Sponsorship</span>-->
         </div>
         <div class="card-content">
-		<p><a href="{{ "/" | relative_url }}/forum/">Fractal Forum</a> is where different learning communities come together. Come talk about open badges, remote working, storytelling, co-ops and more. </p>
-        </div>
-         <div class="card-action">
-          <a href="{{ "/" | relative_url }}/forum/">Read the conversation</a><br/>
+		<p><strong>Help us to continue The Learning Fractal - and promote your organisation - by becoming a sponsor.</strong> If your organisation would like to discuss sponsorship opportunities, please <a href="mailto:learningfractal@weareopen.coop">get in touch</a>!</p>
         </div>
       </div>	    
-    </div>	
+    </div>     
+	
 </div>
+
+
+                          
