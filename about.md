@@ -9,6 +9,8 @@ intro-text: We are a cooperative. We are thinkers and writers, philosophers and 
 img: innovation-swat-team.png
 button-text: Join us!
 link: /join/
+button-text2: Hire us!
+link2: /contact/
 ---
 <div class="row">
 	<div class="col s12 m6 l6 ">

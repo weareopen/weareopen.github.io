@@ -9,7 +9,8 @@ layout: default
 	            <div class="col s12 m12 l7">
 	                <p class="entry-text">{{ page.intro-text }}</p>
 	                <p>
-		                <a href="{{page.link}}" alt="{{ page.button-text }}" id="download-button" class="btn-large waves-effect waves-light blue">{{ page.button-text }}</a>
+		                <a href="{{page.link}}" alt="{{ page.button-text }}" id="download-button" class="btn-large waves-effect waves-light blue left">{{ page.button-text }}</a>
+		                 {% if page.link2 %}<a href="{{page.link2}}" alt="{{ page.button-text2 }}" id="download-button" class="btn-large waves-effect waves-light blue darken-4" style="margin-left:2%;">{{ page.button-text2 }}</a>{% endif %}
 	                </p>
 	                <p>
 		                <a href="{{page.textlink}}" alt="{{ page.textlink-alt }}" id="download-button">{{ page.textlink-alt }}</a>
