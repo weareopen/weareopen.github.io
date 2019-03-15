@@ -7,8 +7,8 @@ intro-text: We Are Open's monthly newsletter covering topics including Open Badg
 img: learning-fractal-logo.png
 button-text: Sign up
 link: https://weareopen.us14.list-manage.com/subscribe?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
-textlink: http://us14.campaign-archive1.com/home/?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
-textlink-alt: View past issues
+button-text2: Past issues
+link2: http://us14.campaign-archive1.com/home/?u=996c23c5b9ec4e92e3762a2cc&id=2f78fad2e0
 ---
 <div>
 <h4>Sponsors</h4>

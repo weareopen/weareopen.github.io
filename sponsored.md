@@ -20,10 +20,10 @@ link: /contact/
           <!--<span class="card-title">the Learning Fractal</span>-->
         </div>
         <div class="card-content">
-          <p><a href="{{ "/" | relative_url }}/newsletter/">the Learning Fractal</a> is a monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!</p>
+          <p><a href="{{ "/" | relative_url }}newsletter">the Learning Fractal</a> is a monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!</p>
         </div>
          <div class="card-action">
-          <a href="{{ "/" | relative_url }}/newsletter/">Learn more</a><br/>
+          <a href="{{ "/" | relative_url }}newsletter">Learn more</a><br/>
         </div>
       </div>
      </div>
@@ -37,7 +37,7 @@ link: /contact/
 		<p><a href="{{ "/" | relative_url }}/streams/">Fractal Live</a> is a way to learn directly from our members. We stream chats about our expertise and you can even schedule a free surgery session to talk with We Are Open Co-op members about your thing.</p>
         </div>
          <div class="card-action">
-          <a href="{{ "/" | relative_url }}/streams/">Watch this</a><br/>
+          <a href="{{ "/" | relative_url }}streams">Watch this</a><br/>
         </div>
       </div>	    
     </div>
@@ -51,7 +51,7 @@ link: /contact/
 		<p><a href="{{ "/" | relative_url }}/forum/">Fractal Forum</a> is where different learning communities come together. Come talk about open badges, remote working, storytelling, co-ops and more. </p>
         </div>
          <div class="card-action">
-          <a href="{{ "/" | relative_url }}/forum/">Read the conversation</a><br/>
+          <a href="{{ "/" | relative_url }}forum">Read the conversation</a><br/>
         </div>
       </div>	    
     </div>	
