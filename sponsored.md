@@ -6,7 +6,7 @@ heading: Projects we drive
 intro-text: We're ideas people. Alongside our client work, we look for sponsorship and try to help the communities we're involved in with initiatives like...
 img: this-production.png
 button-text: Become a sponsor
-link: /contact/
+link: https://opencollective.com/weareopen
 
 ---
 <div class="row">
