@@ -2,7 +2,7 @@
 layout: work-page
 title: Newsletter
 permalink: /newsletter/
-heading: The Learning Fractal
+heading: The Learning Fractal Newsletters
 intro-text: We Are Open's monthly newsletter covering topics including Open Badges and micro-credentials, creativity in learning, new frontiers in educational technology, learning pathways, and more!
 img: learning-fractal-logo.png
 button-text: Sign up
@@ -43,7 +43,7 @@ link2: http://us14.campaign-archive1.com/home/?u=996c23c5b9ec4e92e3762a2cc&id=2f
           <!--<span class="card-title">Sponsorship</span>-->
         </div>
         <div class="card-content">
-		<p><strong>Help us to continue The Learning Fractal - and promote your organisation - by becoming a sponsor.</strong> If your organisation would like to discuss sponsorship opportunities, please <a href="mailto:learningfractal@weareopen.coop">get in touch</a>!</p>
+		<p><strong>Help us to continue The Learning Fractal Newsletter - and promote your organisation - by becoming a sponsor.</strong> If your organisation would like to discuss sponsorship opportunities, please <a href="https://opencollective.com/weareopen">get in touch</a>!</p>
         </div>
       </div>	    
     </div>     
