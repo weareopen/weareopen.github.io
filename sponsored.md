@@ -24,20 +24,7 @@ link: https://opencollective.com/weareopen
         </div>
       </div>
      </div>
-    <div class="col s12 m7 l4">
-	<div class="card">
-        <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/work/fractal-forum.png" class="responsive-img" alt="Fractal Forum">
-          <!--<span class="card-title">Fractal Forum</span>-->
-        </div>
-        <div class="card-content">
-		<p>The <a href="https://learningfractal.com">Learning Fractal Forum</a> is where different learning communities come together. Come talk about open badges, remote working, storytelling, co-ops and more. </p>
-        </div>
-         <div class="card-action">
-          <a href="https://learningfractal.com">Read the conversation</a><br/>
-        </div>
-      </div>	    
-    </div>	
+     
     <div class="col s12 m7 l4">
 	<div class="card">
         <div class="card-logo row center-align">
@@ -49,20 +36,6 @@ link: https://opencollective.com/weareopen
         </div>
          <div class="card-action">
           <a href="https://badge.wiki">Search the wiki</a><br/>
-        </div>
-      </div>	    
-    </div>	
-     <div class="col s12 m7 l4">
-	<div class="card">
-        <div class="card-logo row center-align">
-          <img src="{{ "/" | relative_url }}assets/images/work/badge-community.png" class="responsive-img" alt="Badge community">
-          <!--<span class="card-title">Fractal Forum</span>-->
-        </div>
-        <div class="card-content">
-		<p>The <a href="https://learningfractal.com">Badge Community</a> is a place for the Open Badges community to come together and discuss all things digital credentials. Ask questions, find answers and get involved in the community! </p>
-        </div>
-         <div class="card-action">
-          <a href="https://learningfractal.com">Join the community</a><br/>
         </div>
       </div>	    
     </div>	
