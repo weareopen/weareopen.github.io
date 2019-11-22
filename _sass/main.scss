@@ -1,5 +1,24 @@
 @charset "utf-8";
 
+.members-home{
+     padding: 0;
+  margin: 0;
+  list-style: none;	
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.members-home div{
+	  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+}
 
 i.work {
 	position: relative;
