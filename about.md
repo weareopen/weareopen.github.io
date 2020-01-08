@@ -23,7 +23,7 @@ link2: /contact/
 					<div class="col s12 m12 l6 card-content">
                        <h5>Open Ed Thinkerer</h5>
 	
-	                    <p><a href="http://twitter.com/dajbelshaw">Doug</a> runs <a href="http://dynamicskillset.com/">Dynamic Skillset</a> is a specialist in digital literacies and new forms of accreditation such as Open Badges. He likes to help people become more productive in their use of technology. He's a doctor, but not the type that can help you with an emergency tracheotomy!</p>
+	                    <p><a href="http://twitter.com/dajbelshaw">Doug</a>  is a specialist in digital literacies and new forms of accreditation such as Open Badges. He likes to help people become more productive in their use of technology. He's a doctor, but not the type that can help you with an emergency tracheotomy!</p>
                     </div>
                 </div>
                 <div class="row">
