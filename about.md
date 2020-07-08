@@ -97,6 +97,26 @@ link2: /contact/
     </div>
 
 <div class="row">
+<div class="col s12 m6 l6">
+        <div class="card blue lighten-5">
+                <div class="row">
+                    <div class="col s12 m12 l6 card-image">
+                        <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/jen.png" alt="Jen Kelchner">
+                        <span class="card-title">Jen Kelchner</span>
+                    </div>
+					<div class="col s12 m12 l6 card-content">
+                        <h5>Linchpin</h5>
+                         <p>Jen is a thinker, an analyst, a dot connector, a weaver of communities, a leader. She loves thought strings, which she enjoys pulling on until stuff falls into her brain like an idea piñata. She also has mad style and can rock a suit whether it has pockets or not.</p>
+                    </div>
+                </div>
+                <div class="row">
+                	<div class="col s12 m12 l12 card-action">
+						<a class="right" href="https://www.jenkelchner.com/about/">Learn more.</a>
+                    </div>
+                </div>
+        </div>
+		</div>
+		
 		<div class="col s12 m6 l6">
         <div class="card blue lighten-5">
                 <div class="row">
