@@ -106,7 +106,7 @@ link2: /contact/
                     </div>
 					<div class="col s12 m12 l6 card-content">
                         <h5>Linchpin</h5>
-                         <p>Jen is a thinker, an analyst, a dot connector, a weaver of communities, a leader. She loves thought strings, which she enjoys pulling on until stuff falls into her brain like an idea piñata. She also has mad style and can rock a suit whether it has pockets or not.</p>
+                         <p><a href="http://twitter.com/jenkelchner">Jen</a> is a thinker, an analyst, a dot connector, a weaver of communities, a leader. She loves thought strings, which she enjoys pulling on until stuff falls into her brain like an idea piñata. She also has mad style and can rock a suit whether it has pockets or not.</p>
                     </div>
                 </div>
                 <div class="row">
