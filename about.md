@@ -55,27 +55,7 @@ link2: /contact/
     </div>
 
 <div class="row">
-	<div class="col s12 m6 l6">
-        <div class="card blue lighten-5">
-                <div class="row">
-                    <div class="col s12 m12 l6 card-image">
-                        <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/grainne.jpg" alt="Grainne Hamilton">
-                        <span class="card-title">Grainne Hamilton</span>
-                    </div>
-					<div class="col s12 m12 l6 card-content">
-                        <h5>Learning Savant</h5>
-
-                        <p><a href="http://twitter.com/grainnehamilton">Grainne</a> is an artist, a dancer, a theater geek, who accidentally stumbled into e-learning and e-assessment at a time when the internet was young. She is a master networker and facilitator and loves opposites - a true ambivert.</p>
-                    </div>
-                </div>
-                <div class="row">
-                	<div class="col s12 m12 l12 card-action">
-                    	<a class="right" href="https://www.linkedin.com/in/gr%C3%A1inne-hamilton-9064559/">Learn more.</a>
-                    </div>
-                </div>
-        </div>
-	</div>
-	<div class="col s12 m6 l6">
+<div class="col s12 m6 l6">
         <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
@@ -94,30 +74,7 @@ link2: /contact/
                 </div>
         </div>
         </div>
-    </div>
-
-<div class="row">
-<div class="col s12 m6 l6">
-        <div class="card blue lighten-5">
-                <div class="row">
-                    <div class="col s12 m12 l6 card-image">
-                        <img class="responsive-img" src="{{ "/" | relative_url }}assets/images/members/jen.png" alt="Jen Kelchner">
-                        <span class="card-title">Jen Kelchner</span>
-                    </div>
-					<div class="col s12 m12 l6 card-content">
-                        <h5>Linchpin</h5>
-                         <p><a href="http://twitter.com/jenkelchner">Jen</a> is a thinker, an analyst, a dot connector, a weaver of communities, a leader. She loves thought strings, which she enjoys pulling on until stuff falls into her brain like an idea piñata. She also has mad style and can rock a suit whether it has pockets or not.</p>
-                    </div>
-                </div>
-                <div class="row">
-                	<div class="col s12 m12 l12 card-action">
-						<a class="right" href="https://www.jenkelchner.com/about/">Learn more.</a>
-                    </div>
-                </div>
-        </div>
-		</div>
-		
-		<div class="col s12 m6 l6">
+	<div class="col s12 m6 l6">
         <div class="card blue lighten-5">
                 <div class="row">
                     <div class="col s12 m12 l6 card-image">
