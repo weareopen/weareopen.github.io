@@ -1,0 +1,230 @@
+@import url(chota.css)
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400&display=swap');
+
+:root {
+ --bg-color: #2F495A;
+ --bg-secondary-color: #2F495A;
+ --color-primary: #00C399;
+ --color-lightGrey: #d2d6dd;
+ --color-grey: #747681;
+ --color-darkGrey: #3f4144;
+ --color-error: #d43939;
+ --color-success: #28bd14;
+ --grid-maxWidth: 120rem;
+ --grid-gutter: 2rem;
+ --font-size: 1.6rem;
+ --font-color: #FFBC42;
+ --font-family-sans: 'Roboto', sans-serif;
+}
+
+body{
+	background-color: white;
+	font-family: var(--font-family-sans);
+}
+
+div{
+	max-width:120rem;
+	margin:0 auto;
+}
+
+
+p, li{
+	color: #FFBC42;
+	font-size: 1.2em;
+	max-width: 55%;
+	background-color: var(--bg-color);
+}
+
+li {
+	list-style: none;
+}
+
+h1{
+	font-size: 5em;
+	font-family: 'Nunito', sans-serif;
+	letter-spacing: .05em;
+	margin:.35em 0 0.4em;
+}
+
+h2{
+	margin:0;
+}
+
+.nav{
+	background-color: #fff;
+	padding: 2% 0 2% 0; 
+	font-color:#333;
+	width:100%;
+}
+
+.nav img {
+  max-height: 5rem;
+}
+
+.footer {
+	margin: 0 auto;
+	width: 90%;
+	padding: 2%;
+	z-index: 105;
+	position:relative;
+	text-align: center;
+	display: flex;
+}
+
+.footer .nav{
+	padding:0;
+}
+
+.footer .nav a{
+	display: inline;
+	padding:0;
+	color: var(--color-primary);
+}
+
+.footer div{
+	float:left;
+}
+
+.footerSide{
+	width:25%;
+}
+
+.footerCenter{
+	width: 50%;
+}
+
+.footer p, .footer li {
+	color: var(--bg-color);
+	font-size: 1em;
+	max-width: 100%;
+	background-color: white;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: repeat(1fr, 5) ;
+  grid-template-rows: repeat(1fr, 5) ;
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  background-color: var(--bg-color);
+  border-top: 3px solid #FFBC42;
+
+}
+
+.content a{
+	color: var(--font-color);
+	text-decoration: underline;
+}
+
+.flex{
+	display:flex;
+	width:100%;
+}
+
+.info { 
+	grid-area: 2 / 2 / 6 / 4;
+}
+.info h1{
+	font-family: 'Nunito';
+	font-weight: 700;
+	font-size: 3em;
+	color: #FFBC42;
+}
+
+.infoBox{
+	flex-shrink: 0;
+	margin:0;
+	z-index:102;
+	flex: 1;
+}
+.lastInfo p, .lastInfo li{
+	background-color:rgba(255, 255, 255, 0);
+}
+
+.sticky{
+	position: absolute;
+	top: 26rem;
+	right: 0rem;
+	display: flex;
+}
+
+@media only screen and (max-width: 960px){
+	h1{
+		font-size:4em;
+		line-height: 1em;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+  .content{
+	  display:block;
+	  padding:1%;
+  }
+  .infoBox p {
+    max-width:100%;
+  }
+  .flex{
+	  display:block;
+	  width:90%;
+  }
+  .sticky{
+	display:none;
+  }
+}
+
+
+.decoration-blue { 
+	grid-area: 2 / 4 / 4 / 6;
+	height: 20rem;
+	width:60rem;
+	z-index: 101;
+	flex: 1;
+	background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(204, 31%, 27%, 1)'/><path d='M0 10v20m40-20v20M10 40h20M10 0h20m10 50c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zM10 40c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10m30-30c-5.523 0-10-4.477-10-10s4.477-10 10-10S50-5.523 50 0s-4.477 10-10 10zM10 0c0 5.523-4.477 10-10 10S-10 5.523-10 0s4.477-10 10-10S10-5.523 10 0'  stroke-width='1' stroke='hsla(197, 82%, 49%, 1)' fill='none'/><path d='M20-10v20m0 20v20m-30-30h20m20 0h20m-20 0c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10'  stroke-width='1' stroke='hsla(197, 82%, 49%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+}
+
+.decoration-yellow { 
+	grid-area: 2 / 4 / 4 / 6;
+	height: 20rem;
+	width:60rem;
+	z-index: 101;
+	flex: 1;
+background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(204, 31%, 27%, 1)'/><path d='M0 10v20m40-20v20M10 40h20M10 0h20m10 50c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zM10 40c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10m30-30c-5.523 0-10-4.477-10-10s4.477-10 10-10S50-5.523 50 0s-4.477 10-10 10zM10 0c0 5.523-4.477 10-10 10S-10 5.523-10 0s4.477-10 10-10S10-5.523 10 0'  stroke-width='1' stroke='hsla(39, 100%, 63%, 1)' fill='none'/><path d='M20-10v20m0 20v20m-30-30h20m20 0h20m-20 0c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10'  stroke-width='1' stroke='hsla(39, 100%, 63%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>")}
+
+.decoration-green { 
+	grid-area: 2 / 4 / 4 / 6;
+	height: 20rem;
+	width:60rem;
+	z-index: 101;
+	flex: 1;
+	background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(204, 31%, 27%, 1)'/><path d='M0 10v20m40-20v20M10 40h20M10 0h20m10 50c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zM10 40c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10m30-30c-5.523 0-10-4.477-10-10s4.477-10 10-10S50-5.523 50 0s-4.477 10-10 10zM10 0c0 5.523-4.477 10-10 10S-10 5.523-10 0s4.477-10 10-10S10-5.523 10 0'  stroke-width='1' stroke='hsla(167, 100%, 38%, 1)' fill='none'/><path d='M20-10v20m0 20v20m-30-30h20m20 0h20m-20 0c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10'  stroke-width='1' stroke='hsla(167, 100%, 38%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>")
+}
+
+.decoration-red{
+	grid-area: 2 / 4 / 4 / 6;
+	height: 20rem;
+	width:60rem;
+	z-index: 101;
+	flex: 1;
+	background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(204, 31%, 27%, 1)'/><path d='M0 10v20m40-20v20M10 40h20M10 0h20m10 50c-5.523 0-10-4.477-10-10s4.477-10 10-10 10 4.477 10 10-4.477 10-10 10zM10 40c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10m30-30c-5.523 0-10-4.477-10-10s4.477-10 10-10S50-5.523 50 0s-4.477 10-10 10zM10 0c0 5.523-4.477 10-10 10S-10 5.523-10 0s4.477-10 10-10S10-5.523 10 0'  stroke-width='1' stroke='hsla(4, 97%, 65%, 1)' fill='none'/><path d='M20-10v20m0 20v20m-30-30h20m20 0h20m-20 0c0 5.523-4.477 10-10 10s-10-4.477-10-10 4.477-10 10-10 10 4.477 10 10'  stroke-width='1' stroke='hsla(4, 97%, 65%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>")
+}
+
+svg {
+  width: 40rem;
+  height: 40rem;
+}
+
+.illustration { 
+	grid-area: 4 / 4 / 6 / 6;
+	width: 40rem;
+	position: absolute;
+	right: 0rem;
+	top: 23rem;
+	flex: 1;
+}
+.illustration img {
+	width: 40%;
+	position: relative;
+	top: -22rem;
+	left: 22rem;
+}
