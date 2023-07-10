@@ -1,20 +1,8 @@
-# Jekyll Materialize Starter Template v0.1
+# 💻 The WAO website
 
-*A Site Starter Materialize Templates.
+We've had a lot of websites over the last 7 years. We're trying to reduce the size of the site itself, so this is a straight up html/css thing cobbled together during the summer of 2023. Feel free to open tickets or better yet, make our janky code better!
 
-The theme is a fork of the [minima][1]
+# ☎️ Get in touch
 
-![minima theme preview](/screenshot.png)
+Want to tell us something about this site? File an issue or send us a note. We're on [Mastodon](https://mastodon.social/@weareopencoop). 
 
-
-# License
-
-The theme is available as open source under the terms of the [MIT License][2].
-
-[Materialize][3] a  modern responsive front-end framework based on Material Design
-
-Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll</a>
-
-[1]: https://github.com/jekyll/minima
-[2]: https://opensource.org/licenses/MIT
-[3]: http://materializecss.com/
