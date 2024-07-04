@@ -1990,8 +1990,8 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		border-radius: 0.25em;
-		border: solid 1px rgba(255, 255, 255, 0.15);
-		background: rgba(255, 255, 255, 0.05);
+		border: solid 1px rgba(255, 255, 255, 1);
+		background: rgba(255, 255, 255, 0.25);
 		margin: 0 0 2em 0;
 	}
 		.features .about img{
