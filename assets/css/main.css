@@ -3878,6 +3878,22 @@ input, select, textarea {
 					height: inherit;
 					line-height: inherit;
 				}
+				
+					#sidebar > .inner > .logo{
+					position:absolute;
+					top:0;
+					left:0;
+					border-radius:0;
+					padding: 7% 4% 4% 5%;
+					margin-bottom: 0;
+					background-image: url("../../images/logo.png");
+					background-size: 7em;
+					background-repeat: no-repeat;
+					background-position-x: .4em;
+					background-position-y: 0.5em;
+					width:8em;
+		}
+				
 
 				#sidebar nav {
 					height: inherit;
@@ -3920,6 +3936,7 @@ input, select, textarea {
 			#sidebar {
 				display: none;
 			}
+			
 
 		}
 
