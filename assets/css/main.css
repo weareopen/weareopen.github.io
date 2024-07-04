@@ -1955,7 +1955,7 @@ input, select, textarea {
 			input[type="button"]:hover:after,
 			button:hover:after,
 			.button:hover:after {
-				opacity: 0.05;
+				opacity: 0.5;
 				-moz-transform: scale(1);
 				-webkit-transform: scale(1);
 				-ms-transform: scale(1);
@@ -3012,7 +3012,12 @@ input, select, textarea {
 		-ms-flex-direction: row;
 		flex-direction: row;
 		min-height: 22.5em;
+		color:white;
 	}
+	
+	.spotlights h1, .spotlights h2, .spotlights h3, .spotlights h4, .spotlights h5, .spotlights h6{
+		color:white;
+	}  
 
 		body.is-ie .spotlights > section {
 			min-height: 0;
@@ -3027,7 +3032,7 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			width: 25em;
-			border-bottom: 10px dashed #16A8E2;
+			border-bottom: 1px solid #16A8E2;
 		}
 
 			.spotlights > section > .image img {
@@ -3083,11 +3088,11 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			border-bottom: 1px solid white;
+			border-top: 1px solid white;
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
 		}
 
 		.spotlights > section.inactive > .image:before,
@@ -3526,6 +3531,14 @@ input, select, textarea {
 			}
 
 		}
+		
+	#footer
+	{
+		background-image: url("../../images/coloursplash.jpg");
+		background-repeat: no-repeat;
+		height:15em;
+		color:white;
+	}
 
 	#footer > .inner a {
 		border-bottom-color: rgba(255, 255, 255, 0.8);
@@ -3535,10 +3548,21 @@ input, select, textarea {
 			border-bottom-color: transparent;
 		}
 
-	#footer > .inner .menu {
+	#footer > .inner .menu-right {
 		font-size: 0.8em;
-		color: rgba(0, 0, 0, 0.8);
+		width:50%;
+		float:right;
 	}
+	
+		#footer > .inner .menu-left {
+		font-size: 1em;
+		width:50%;
+		float:left;
+	}
+	#footer ul {
+		list-style: none;
+	}
+
 
 	#header + #wrapper + #footer > .inner {
 		margin: 0 auto;
@@ -3587,7 +3611,10 @@ input, select, textarea {
 			width: 100%;
 		}
 		#sidebar > .inner > .logo{
-			margin-bottom:15%;
+			margin-bottom: 15%;
+			background-color: white;
+			border-radius: 12px;
+			padding: 7% 4% 4% 5%;
 		}
 
 			body.is-ie #sidebar > .inner {
@@ -3767,16 +3794,13 @@ input, select, textarea {
 			border: 0;
 			color: rgba(0, 0, 0, 0.45);
 			display: block;
-			font-family:"Nunito";
-			font-size: 0.7em;
-			font-weight: bold;
-			letter-spacing: 0.25em;
+			font-size: 0.9em;
+			letter-spacing: 0.15em;
 			line-height: 1.75;
 			outline: 0;
 			padding: 1.35em 0;
 			position: relative;
 			text-decoration: none;
-			text-transform: uppercase;
 		}
 
 			#sidebar nav a:before, #sidebar nav a:after {
@@ -3794,10 +3818,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #2F495A, #FFBC42);
-				background-image: -webkit-linear-gradient(to right, #2F495A, #FFBC42);
-				background-image: -ms-linear-gradient(to right, #2F495A, #FFBC42);
-				background-image: linear-gradient(to right, #2F495A, #FFBC42);
+				background-image: -moz-linear-gradient(to right, #FFBC42, #FFBC42);
+				background-image: -webkit-linear-gradient(to right, #FFBC42, #FFBC42);
+				background-image: -ms-linear-gradient(to right, #FFBC42, #FFBC42);
+				background-image: linear-gradient(to right, #FFBC42, #FFBC42);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
