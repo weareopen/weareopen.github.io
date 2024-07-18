@@ -3586,6 +3586,10 @@ input, select, textarea {
 		width: 18em;
 		z-index: 10000;
 	}
+	
+	#sidebar > .inner .icons{
+		text-align:center;
+	}
 
 		#sidebar > .inner {
 			display: -moz-flex;
@@ -3613,7 +3617,7 @@ input, select, textarea {
 			width: 100%;
 		}
 		#sidebar > .inner > .logo{
-			margin-bottom: 15%;
+			margin-bottom: 5%;
 			background-color: white;
 			border-radius: 12px;
 			padding: 7% 4% 4% 5%;
