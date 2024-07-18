@@ -328,6 +328,10 @@ input, select, textarea {
 	.align-right {
 		text-align: right;
 	}
+	
+	.smalltext{
+		font-size: .75em;
+	}
 
 /* Row */
 
@@ -3268,7 +3272,7 @@ input, select, textarea {
 			color:white;
 		}
 		
-		#three h2, #three h3{
+		#four h2, #four h3{
 			color:white;
 		}
 
@@ -3535,9 +3539,7 @@ input, select, textarea {
 	#footer
 	{
 		background-image: url("../../images/coloursplash.jpg");
-		background-repeat: no-repeat;
-		height:15em;
-		color:white;
+		background-size: cover;
 	}
 
 	#footer > .inner a {
