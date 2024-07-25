@@ -1984,6 +1984,12 @@ input, select, textarea {
 
 /* Features */
 
+	.internetStuff h1{
+		font-size: 4em;
+		margin-right: 3%;
+		float: left;
+	}
+
 	.features {
 		display: -moz-flex;
 		display: -webkit-flex;
