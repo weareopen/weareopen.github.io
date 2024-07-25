@@ -2008,7 +2008,20 @@ input, select, textarea {
 			float:left;
 			width:35%;
 			padding-right:5%;
+			padding-top:1.5%;
 		}
+		
+		.features .about p.capsule{
+		background-color: #FFBC42;
+  padding: 1% 4%;
+  font-size: .75em;
+  position: relative;
+  margin-bottom: 1em;
+  align-content: center;
+  text-transform: uppercase;
+		}
+		
+		
 		.coolidea img{
 			width: 100%;
 			padding: 10%;
