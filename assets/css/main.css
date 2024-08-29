@@ -2541,7 +2541,6 @@ input, select, textarea {
 		}
 
 		.icon > .label {
-			display: none;
 		}
 
 		.icon:before {
@@ -2849,7 +2848,6 @@ input, select, textarea {
 	}
 
 		ul.icons li {
-			display: inline-block;
 			padding: 0 0.75em 0 0;
 		}
 
@@ -2862,7 +2860,7 @@ input, select, textarea {
 			}
 
 				ul.icons li > a .label, ul.icons li > span .label {
-					display: none;
+					padding-left:4%;
 				}
 
 /* Menu */
