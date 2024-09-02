@@ -3875,6 +3875,8 @@ input, select, textarea {
 			transform: translateY(2em);
 			opacity: 0;
 		}
+		
+		
 
 		@media screen and (max-width: 1280px) {
 
@@ -3955,11 +3957,16 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
-
-			#sidebar {
+			.inner nav, .inner .logo svg {
 				display: none;
 			}
+			#sidebar > .inner > .logo{
+				height:8em;
+			}
 			
+			#sidebar .inner{
+				background-color: white;
+			}
 
 		}
 
