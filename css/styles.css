@@ -22,7 +22,7 @@ html {
 }
 
 body {
-    font-family: 'Roboto', 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-family: 'Nunito', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
     font-size: 16px;
     line-height: 1.6;
     color: var(--color-text);
@@ -128,7 +128,7 @@ header {
 
 /* Sections */
 
-section:first-of-type {
+.hero {
     padding-top: 0;
 }
 
@@ -169,8 +169,7 @@ h2::before {
 }
 
 .summary h2 {
-    margin-top: 0;
-    padding-top: 20px;
+    margin-top: 40px;
     margin-bottom: 40px;
 }
 
@@ -254,8 +253,18 @@ h2::before {
     border: 3px solid var(--color-teal);
 }
 
+.team-member-image-2 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 16px;
+    border: 3px solid var(--color-cyan);
+}
+
 .team-member h4 {
-    font-size: 18px;
+    font-family: 'Roboto Slab', Georgia, serif;
+    font-size: 20px;
     font-weight: 600;
     margin-bottom: 8px;
     color: var(--color-text);
@@ -292,6 +301,32 @@ h2::before {
     margin-top: 12px;
 }
 
+/* Social icon images */
+.social-icon {
+    width: 1.2rem;
+    height: 1.2rem;
+    object-fit: contain;
+    vertical-align: middle;
+}
+
+/* Social media icons for team members */
+.team-social-icons {
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 0.75rem;
+}
+
+.team-social-icons a {
+    color: var(--color-cyan);
+    font-size: 1.2rem;
+    transition: color 0.2s ease;
+}
+
+.team-social-icons a:hover,
+.team-social-icons a:focus-visible {
+    color: var(--color-yellow);
+}
+
 .team-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -312,7 +347,7 @@ h2::before {
 }
 
 .achievements h2::before {
-    background: var(--color-cyan);
+    background: var(--color-teal);
 }
 
 /* Projects Grid */
@@ -421,6 +456,14 @@ h2::before {
     margin-bottom: 60px;
 }
 
+.resource-section .resource-item {
+    margin-bottom: 20px;
+}
+
+.resource-section .resource-item:last-child {
+    margin-bottom: 0;
+}
+
 .resource-section:last-child {
     margin-bottom: 0;
 }
@@ -447,15 +490,20 @@ h2::before {
 
 .resource-list {
     list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 28px;
 }
 
 .resource-item {
     background: var(--color-bg);
     border: 2px solid var(--color-border);
     padding: 32px;
-    margin-bottom: 20px;
     transition: all 0.3s ease;
     position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
 }
 
 .resource-item::left {
@@ -475,7 +523,8 @@ h2::before {
 }
 
 .resource-item h4 {
-    font-size: 18px;
+    font-family: 'Roboto Slab', Georgia, serif;
+    font-size: 20px;
     font-weight: 600;
     margin-bottom: 12px;
     color: var(--color-text);
@@ -494,6 +543,8 @@ h2::before {
     display: flex;
     flex-wrap: wrap;
     gap: 12px;
+    margin-top: auto;
+    padding-top: 16px;
 }
 
 .resource-meta a {
@@ -511,34 +562,232 @@ h2::before {
     font-style: italic;
 }
 
+/* GitHub Repository Cards */
+.repo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 24px;
+    margin-top: 32px;
+}
+
+.repo-card {
+    background: var(--color-bg);
+    border: 2px solid var(--color-border);
+    padding: 32px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.repo-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+}
+
+.repo-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+
+.repo-card h4 {
+    font-family: 'Roboto Slab', 'Nunito', Georgia, serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--color-text);
+}
+
+.repo-card h4 a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.repo-card h4 a:hover {
+    text-decoration: underline;
+}
+
+.repo-card p {
+    font-size: 15px;
+    line-height: 1.6;
+    color: var(--color-text-light);
+    margin-bottom: 16px;
+}
+
+.repo-card .repo-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text);
+    text-decoration: none;
+    padding: 8px 16px;
+    background: var(--color-surface);
+    border-radius: 0;
+    transition: all 0.2s ease;
+}
+
+.repo-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--color-text);
+    text-decoration: none;
+    padding: 8px 16px;
+    background: var(--color-surface);
+    border-radius: 0;
+    transition: all 0.2s ease;
+}
+
+/* General repo-link hover - for Publications & Resources */
+.repo-link:hover {
+    color: white;
+    background: var(--color-cyan);
+}
+
+/* Repo card color variants */
+.repo-card--teal::before { background: var(--color-teal); }
+.repo-card--teal:hover { border-color: var(--color-teal); }
+.repo-card--teal .repo-link:hover { background: var(--color-teal) !important; color: white !important; }
+
+.repo-card--yellow::before { background: var(--color-yellow); }
+.repo-card--yellow:hover { border-color: var(--color-yellow); }
+.repo-card--yellow .repo-link:hover { background: var(--color-yellow) !important; color: white !important; }
+
+.repo-card--cyan::before { background: var(--color-cyan); }
+.repo-card--cyan:hover { border-color: var(--color-cyan); }
+.repo-card--cyan .repo-link:hover { background: var(--color-cyan) !important; color: white !important; }
+
+.repo-card--orange::before { background: var(--color-orange); }
+.repo-card--orange:hover { border-color: var(--color-orange); }
+.repo-card--orange .repo-link:hover { background: var(--color-orange) !important; color: white !important; }
+
+.repo-card--charcoal::before { background: var(--color-charcoal); }
+.repo-card--charcoal:hover { border-color: var(--color-charcoal); }
+.repo-card--charcoal .repo-link:hover { background: var(--color-charcoal) !important; color: white !important; }
+
 /* Footer */
 footer {
-    background: var(--color-text);
-    color: #FFFFFF;
-    padding: 64px 0;
+    background: var(--color-charcoal);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 40px 0;
     margin-top: 80px;
 }
 
 .footer-content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
 }
 
-footer p {
-    font-size: 15px;
-    line-height: 1.6;
-    color: rgba(255, 255, 255, 0.8);
-    margin-bottom: 12px;
+.footer-logo {
+    display: flex;
+    justify-content: center;
 }
 
-footer a {
+.footer-logo img {
+    width: 120px;
+    height: 42px;
+    filter: none;
+}
+
+.footer-text {
+    color: #FFFFFF;
+}
+
+.footer-text p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.footer-text a {
+    color: var(--color-cyan);
+    text-decoration: none;
+}
+
+.footer-text a:hover {
     color: var(--color-teal);
-    font-weight: 500;
+    text-decoration: underline;
 }
 
-footer a:hover {
-    color: var(--color-yellow);
+/* Back to top button */
+.back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: var(--color-teal);
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 20px;
+    box-shadow: 0 4px 12px rgba(0, 195, 153, 0.3);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(20px);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.back-to-top:hover {
+    background: var(--color-cyan);
+    transform: translateY(-5px);
+}
+
+.footer-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+}
+
+.footer-logo {
+    display: flex;
+    justify-content: center;
+}
+
+.footer-logo img {
+    width: 120px;
+    height: 42px;
+    filter: none;
+}
+
+.footer-text {
+    color: #FFFFFF;
+}
+
+.footer-text p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.footer-text a {
+    color: var(--color-cyan);
+    text-decoration: none;
+}
+
+.footer-text a:hover {
+    color: var(--color-teal);
+    text-decoration: underline;
 }
 
 /* Skip link */
@@ -555,47 +804,226 @@ footer a:hover {
 
 .skip-link:focus {
     top: 0;
+    outline: 3px solid var(--color-yellow);
+    outline-offset: 3px;
 }
 
-/* Responsive */
-@media (max-width: 768px) {
-    .container {
-        padding: 0 20px;
+/* Global link styles for accessibility */
+a {
+    color: var(--color-cyan);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.2s ease;
+}
+
+a:hover,
+a:focus {
+    color: var(--color-teal);
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
+a:focus-visible {
+    outline: 2px solid var(--color-yellow);
+    outline-offset: 3px;
+    border-radius: 2px;
+}
+
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+    outline: 2px solid var(--color-yellow);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+        scroll-behavior: auto !important;
     }
     
-    .hero {
-        padding: 80px 0 60px;
+    html {
+        scroll-behavior: auto;
+    }
+}
+
+@media (prefers-contrast: more) {
+    :root {
+        --color-text: #000000;
+        --color-bg: #ffffff;
+        --color-surface: #ffffff;
+        --color-border: #000000;
     }
     
-    section {
-        padding: 70px 0;
-    }
-    
-    h2::before {
-        margin-bottom: 16px;
-    }
-    
+    .repo-card,
+    .project-card,
+    .team-member,
     .summary,
-    .resources,
-    .team {
-        padding: 50px 24px;
+    .team,
+    .achievements,
+    .resource-item {
+        border-width: 2px;
+    }
+}
+
+/* High contrast mode support */
+@media (forced-colors: active) {
+    .repo-card::before,
+    .project-card::before,
+    .team h3::after,
+    .resource-section h3::after,
+    .achievements h2::before,
+    .team h2::before,
+    .contact h2::before {
+        forced-color-adjust: none;
     }
     
-    .projects-grid {
+    .repo-card,
+    .project-card,
+    .team-member,
+    .summary,
+    .resource-item {
+        border: 2px solid ButtonText;
+    }
+    
+    .repo-link,
+    .project-link,
+    a {
+        color: LinkText;
+    }
+}
+
+/* Logo link - remove underline */
+.logo-link {
+    text-decoration: none;
+}
+
+/* Report cover images */
+.report-cover {
+    margin: 16px 0;
+    border: 2px solid var(--color-border);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.report-cover--portrait {
+    max-width: 200px;
+    height: auto;
+    max-height: 280px;
+    object-fit: cover;
+}
+
+.report-cover--landscape {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+/* Publications grid responsive */
+@media (max-width: 768px) {
+    .resource-list {
         grid-template-columns: 1fr;
-        gap: 20px;
     }
-    
-    .project-card {
-        padding: 28px;
-    }
-    
-    .team-grid {
+}
+
+/* Preview images in Media & Resources */
+.resource-preview {
+    width: 100%;
+    height: auto;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 16px;
+    border: 2px solid var(--color-border);
+}
+
+/* Media & Resources - Square cards */
+.media-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+}
+
+.media-card {
+    background: var(--color-bg);
+    border: 2px solid var(--color-border);
+    transition: all 0.3s ease;
+    overflow: hidden;
+}
+
+.media-card:hover {
+    border-color: var(--color-cyan);
+    box-shadow: 0 6px 20px rgba(22, 168, 226, 0.12);
+}
+
+.media-card-image {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    display: block;
+}
+
+.media-card-content {
+    padding: 24px;
+}
+
+.media-card-content h4 {
+    font-family: 'Roboto Slab', Georgia, serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--color-text);
+}
+
+.media-card-content p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--color-text-light);
+    margin-bottom: 16px;
+}
+
+@media (max-width: 768px) {
+    .media-grid {
         grid-template-columns: 1fr;
     }
+}
+
+/* Publications & Resources buttons - specific hover */
+.resource-list .repo-link:hover,
+.resource-meta .repo-link:hover,
+.media-card-content .repo-link:hover {
+    color: white !important;
+    background: var(--color-cyan) !important;
+}
+
+/* Mobile overflow fixes */
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
     
-    .footer-content {
-        grid-template-columns: 1fr;
-        gap: 32px;
+    .container {
+        padding: 0 16px;
+    }
+    
+    img,
+    svg,
+    .report-cover,
+    .media-card-image {
+        max-width: 100%;
+        height: auto;
+    }
+    
+    .hero h1 {
+        word-break: break-word;
+    }
+    
+    .team-member-image,
+    .team-member-image-2 {
+        max-width: 100%;
+        height: auto;
     }
 }
