@@ -197,8 +197,8 @@ h2::before {
 /* Team Section */
 .team {
     background: var(--color-surface);
-    padding: 80px;
-    margin: 100px 0;
+    padding: 5%;
+    margin: 7% 0;
     border-left: 6px solid var(--color-yellow);
 }
 
@@ -337,8 +337,8 @@ h2::before {
 /* Achievements/Our Work */
 .achievements {
     background: var(--color-surface);
-    padding: 80px;
-    margin: 100px 0;
+    padding: 5%;
+    margin: 7% 0;
     border-left: 6px solid var(--color-teal);
 }
 
@@ -423,8 +423,8 @@ h2::before {
 /* Resources */
 .resources {
     background: var(--color-surface);
-    padding: 80px;
-    margin: 100px 0;
+    padding: 5%;
+    margin: 7% 0;
     border-left: 6px solid var(--color-cyan);
 }
 
