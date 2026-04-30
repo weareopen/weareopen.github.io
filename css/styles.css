@@ -649,6 +649,16 @@ h2::before {
     background: var(--color-cyan);
 }
 
+.start-btn{
+    color: white;
+    background: var(--color-cyan);
+}
+
+.start-btn:hover{
+    color: white;
+    background: var(--color-teal);
+}
+
 /* Repo card color variants */
 .repo-card--teal::before { background: var(--color-teal); }
 .repo-card--teal:hover { border-color: var(--color-teal); }
