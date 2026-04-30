@@ -629,7 +629,7 @@ h2::before {
     transition: all 0.2s ease;
 }
 
-.repo-link {
+.repo-link, .start-btn {
     display: inline-flex;
     align-items: center;
     gap: 8px;
