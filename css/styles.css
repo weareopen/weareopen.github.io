@@ -156,7 +156,6 @@ h2::before {
     font-size: 20px;
     line-height: 1.7;
     color: var(--color-text-light);
-    max-width: 800px;
     margin-bottom: 60px;
 }
 
@@ -182,7 +181,6 @@ h2::before {
     line-height: 1.8;
     color: var(--color-text-light);
     margin-bottom: 28px;
-    max-width: 850px;
 }
 
 .summary p:last-child {
